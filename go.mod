@@ -5,7 +5,7 @@ go 1.23.1
 require (
 	cloud.google.com/go/compute/metadata v0.5.2
 	golang.org/x/oauth2 v0.23.0
-	google.golang.org/api v0.200.0
+	google.golang.org/api v0.201.0
 )
 
 require (
