@@ -3,7 +3,7 @@ module github.com/enthus-golang/google-cloud
 go 1.24.0
 
 require (
-	cloud.google.com/go/compute/metadata v0.8.4
+	cloud.google.com/go/compute/metadata v0.9.0
 	golang.org/x/oauth2 v0.31.0
 	google.golang.org/api v0.249.0
 )
